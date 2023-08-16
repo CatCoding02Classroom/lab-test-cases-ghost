@@ -1,0 +1,10 @@
+---
+title: "Lab Test Case"
+author: "Laura Edwards"
+format: html
+editor: visual
+---
+
+# Test Lab
+
+This lab is a test lab. Test students will complete the lab as specified in the README document.
